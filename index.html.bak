@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>yay wpi</title>
+    <meta http-equiv="Content-Style-Type" content="text/css">
+    <meta name="generator" content="thesitewizard.com's Layout Wizard 3.0.1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="all" href="styles.css">
+  </head>
+  <body>
+    <div id="tswcontainer">
+      <div id="tswcontent">
+        <div id="tswcontproper"> <!-- start of content column: insert your content here -->
+          <h1></h1>
+          <h1>about me: i love cheese</h1>
+          <p> i am a cheese enthusiest </p>
+          <h1><img src="file:///C:/Users/nkumar3/Pictures/Saved%20Pictures/IMG_0328.jpg"
+
+              alt="" style="width: 226px; height: 158px;"></h1>
+          <p> Liking cheese is a culinary inclination that transcends cultural
+            boundaries and delights the taste buds of many. With its rich and
+            diverse flavors, cheese has captivated food enthusiasts for
+            centuries. From creamy and mild varieties like Brie and Mozzarella
+            to pungent and aged options such as Gorgonzola and Cheddar, the
+            world of cheese offers a plethora of choices to satisfy every
+            palate. Its versatility is unparalleled, seamlessly blending into
+            dishes, topping pizzas, or being savored on its own. The indulgence
+            of liking cheese is not just about its delectable taste but also
+            about the artistry behind its production, the meticulous aging
+            processes, and the stories woven into the fabric of each unique
+            wheel. Whether it's a cheese platter at a social gathering, a
+            comforting grilled cheese sandwich, or a sprinkle of Parmesan over
+            pasta, the love for cheese brings people together, creating moments
+            of sheer gastronomic pleasure. <a href="https://www.thesitewizard.com/wizards/css-menu-buttons.shtml">Navigation
+              Menu Wizard
+              <!-- end of content column: put your content above this line --> </a></p>
+        </div>
+        <a href="https://www.thesitewizard.com/wizards/css-menu-buttons.shtml">
+        </a></div>
+      <a href="https://www.thesitewizard.com/wizards/css-menu-buttons.shtml">
+        <div id="tswsidecol">
+          <div id="tswsideproper">
+            <!-- start of side column: insert your navigation menu, etc, here -->
+           <div id="tswcssbuttons">
+<ul>
+<li><a href="file:///Z:/index.html">home</a></li>
+<li><a href="file:///Z:/sitemap.html">about me</a></li>
+<li><a href="file:///Z:/sitemap2.html">school</a></li>
+</ul>
+</div>
+
+            <!-- end of side column: put your navigation menu, etc, above this line -->
+          </div>
+        </div>
+        <div style="clear: both;"></div>
+      </a></div>
+  </body>
+</html>
