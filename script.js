@@ -34,6 +34,7 @@ var dice={
 // existing code
 function showQuestion() {
     // existing code
+    count = dice.roll();
     let q = questions[count];
     let titleDiv = document.getElementById("title");
     let answerDiv = document.getElementById("answer");
@@ -61,12 +62,12 @@ function showQuestion() {
         }
       },{once: true});
     });
-    count=count+1;
-    if (count==4){
-      count=0;
-  }
-  console.log(count);
+//  count=count+1;
+//  if (count==4){
+//    count=0;
+//}
+//console.log(count);
 }
 
-  // call the function
-  showQuestion();
+// call the function
+showQuestion();
